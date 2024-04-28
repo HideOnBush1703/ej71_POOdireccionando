@@ -40,10 +40,7 @@ public class Main {
                     break;
                 
                 default: System.out.println("Movimiento no reconocido"); //No es necesario, ya se cubrieron muchos casos.
-                
-                System.out.println("Haz la prueba 2");
-		System.out.println("Haz la prueba 3");
-                System.out.println("Haz la prueba en otra rama");   
+  
             }
             }
      
